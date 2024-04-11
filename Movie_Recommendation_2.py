@@ -1,6 +1,5 @@
 '''
-Group Members: Sachin, Emma, Jenna
-Assignment: Recommendation engine,  Part 2
+Recommendation engine,  Part 2
 -- Ease of use of GUI or text-based system.
 -- K-means clustering is used with genres and title.
 -- Cosine similarity on the description of the movies is used.
